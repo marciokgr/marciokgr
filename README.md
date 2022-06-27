@@ -1,4 +1,6 @@
-### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de Engenharia de Sistemas na Ailos.
+### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. 
+
+Atuando na área de Engenharia de Sistemas na Ailos.
 
 <!--
 **marciokgr/marciokgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
