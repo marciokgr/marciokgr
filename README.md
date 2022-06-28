@@ -1,8 +1,6 @@
 Olá, eu sou [Márcio Krüger](https://github.com/marciokgr), 
 
-#### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. 
-
-Atuando na área de Engenharia de Sistemas na Ailos.
+#### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de Engenharia de Sistemas na Ailos.
 
 💻 Arquitetura de Software
 <br/>
@@ -19,7 +17,7 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Android / IOS: Flutter
  <br/>
  • Controle de Versionamento: Git e SVN 
-<br/><br/>
+<br/>
 🎲 Banco de Dados
 <br/>
  • SQL Server (tsql, trigger, procedures, indices e modelagem e normalização)
@@ -29,7 +27,7 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Oracle
  <br/>
  • NoSql (Redis, RavenDB)
-<br/><br/>
+<br/>
 ☁️ Cloud Computing
 <br/>
  • Microsoft Azure
@@ -37,7 +35,6 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • IBMCloud (SoftLayer)
  <br/>
  • AWS
- <br/>
 
 <div>
   <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
