@@ -1,4 +1,6 @@
-### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. 
+Olá, eu sou [Márcio Krüger](https://github.com/marciokgr), 
+
+#### Profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. 
 
 Atuando na área de Engenharia de Sistemas na Ailos.
 
@@ -23,3 +25,11 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Microsoft Azure
  • IBMCloud (SoftLayer)
  • AWS
+ 
+
+<div>
+  <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/marciokgr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://api.whatsapp.com/send?phone=55047999230489" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-Ibe25?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href = "mailto:marcio.kgr@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
