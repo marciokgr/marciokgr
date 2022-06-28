@@ -9,7 +9,7 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Monolítica
 <br/>
  • Microserviços
-
+<br/><br/>
 💻 Desenvolvimento Web e Desktop
 <br/>
  • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6 
@@ -19,7 +19,7 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Android / IOS: Flutter
  <br/>
  • Controle de Versionamento: Git e SVN 
-<br/>
+<br/><br/>
 🎲 Banco de Dados
 <br/>
  • SQL Server (tsql, trigger, procedures, indices e modelagem e normalização)
@@ -29,7 +29,7 @@ Atuando na área de Engenharia de Sistemas na Ailos.
  • Oracle
  <br/>
  • NoSql (Redis, RavenDB)
-
+<br/><br/>
 ☁️ Cloud Computing
 <br/>
  • Microsoft Azure
