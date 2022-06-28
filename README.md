@@ -5,27 +5,39 @@ Olá, eu sou [Márcio Krüger](https://github.com/marciokgr),
 Atuando na área de Engenharia de Sistemas na Ailos.
 
 💻 Arquitetura de Software
+<br/>
  • Monolítica
+<br/>
  • Microserviços
 
 💻 Desenvolvimento Web e Desktop
-
+<br/>
  • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6 
+ <br/>
  • Frontend: JQuery, React, AngularJS, Razor, Telerik (Kendo UI), Bootstrap, JavaScript, HTML, HTML5
+ <br/>
  • Android / IOS: Flutter
+ <br/>
  • Controle de Versionamento: Git e SVN 
-
+<br/>
 🎲 Banco de Dados
+<br/>
  • SQL Server (tsql, trigger, procedures, indices e modelagem e normalização)
+ <br/>
  • MySQL
+ <br/>
  • Oracle
+ <br/>
  • NoSql (Redis, RavenDB)
 
 ☁️ Cloud Computing
+<br/>
  • Microsoft Azure
+ <br/>
  • IBMCloud (SoftLayer)
+ <br/>
  • AWS
- 
+ <br/>
 
 <div>
   <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
