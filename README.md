@@ -1,4 +1,4 @@
-Olá, eu sou [Márcio Krüger](https://github.com/marciokgr), profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de Engenharia de Sistemas na Ailos.
+Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de <b>Engenharia de Sistemas na Ailos</b>.
 
 💻 Arquitetura de Software
 <br/>
