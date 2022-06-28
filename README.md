@@ -17,7 +17,7 @@ Olá, eu sou [Márcio Krüger](https://github.com/marciokgr),
  • Android / IOS: Flutter
  <br/>
  • Controle de Versionamento: Git e SVN 
-<br/>
+<br/><br/>
 🎲 Banco de Dados
 <br/>
  • SQL Server (tsql, trigger, procedures, indices e modelagem e normalização)
@@ -27,7 +27,7 @@ Olá, eu sou [Márcio Krüger](https://github.com/marciokgr),
  • Oracle
  <br/>
  • NoSql (Redis, RavenDB)
-<br/>
+<br/><br/>
 ☁️ Cloud Computing
 <br/>
  • Microsoft Azure
