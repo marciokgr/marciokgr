@@ -6,7 +6,7 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 <br/>
  • Microserviços
 <br/><br/>
-💻 Desenvolvimento Web e Desktop
+📝 Desenvolvimento Web e Desktop
 <br/>
  • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6 
  <br/>
