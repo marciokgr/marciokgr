@@ -1,4 +1,4 @@
-Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 17 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de <b>Engenharia de Sistemas na Ailos</b>.
+Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 18 anos de experiência em TI e desenvolvimento de sistemas. Atuando na área de <b>Engenharia de Sistemas na Ailos</b>.
 
 💻 Arquitetura de Software
 <br/>
@@ -8,7 +8,7 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 <br/><br/>
 📝 Desenvolvimento Web e Desktop
 <br/>
- • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6 
+ • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6, .Net 7
  <br/>
  • Frontend: JQuery, React, AngularJS, Razor, Telerik (Kendo UI), Bootstrap, JavaScript, HTML, HTML5
  <br/>
