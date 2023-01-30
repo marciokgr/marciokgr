@@ -59,6 +59,7 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
    <a href = "mailto:marcio.kgr@gmail.com?subject='Contato github'"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## 📕 Últimos Posts no [Medium e Linkedin]([(https://medium.com/@marcio.kgr/))
 <!-- BLOG-POST-LIST:START -->
 - [O que é o Chat GPT e um pouco do que ele pode fazer](https://medium.com/@marcio.kgr/o-que-%C3%A9-o-chat-gpt-e-um-pouco-do-que-ele-pode-fazer-a4b07a47e364)
 - [Endpoint e API não é a mesma coisa!](https://medium.com/@marcio.kgr/endpoint-e-api-n%C3%A3o-%C3%A9-a-mesma-coisa-d4d25cbf5ef0)
