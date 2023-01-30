@@ -40,3 +40,20 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 <a href="https://api.whatsapp.com/send?phone=55047999230489" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-Ibe25?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    <a href = "mailto:marcio.kgr@gmail.com?subject='Contato github'"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<p>
+<a href="https://github.com/marciokgr/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=marciokgr&count_private=true&show_icons=true&custom_title=Dyego's%20Github%20Stats&hide=issues&theme=dracula"
+    />
+  </a>
+<a href="https://github.com/marciokgr/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciokgr,marciokgr.github.io&layout=compact&theme=dracula&langs_count=8"
+    />
+</a>
+</p>
