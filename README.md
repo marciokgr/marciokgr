@@ -46,14 +46,14 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=marciokgr&count_private=true&show_icons=true&custom_title=Dyego's%20Github%20Stats&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=marciokgr&count_private=true&show_icons=true&custom_title=marciokgr%20Stats&hide=issues&theme=dracula"
     />
   </a>
 <a href="https://github.com/marciokgr/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciokgr,marciokgr.github.io&layout=compact&theme=dracula&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciokgr&layout=compact&theme=dracula&langs_count=8"
     />
 </a>
 </p>
