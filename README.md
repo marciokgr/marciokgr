@@ -61,7 +61,7 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 
 ## 📕 Últimos Posts no [Medium e Linkedin]([(https://medium.com/@marcio.kgr/))
 <!-- BLOG-POST-LIST:START -->
-- [O que todo dev .Net deveria saber?]([https://medium.com/@marcio.kgr/rabbitmq-vs-kafka-c265456c97da](https://medium.com/@marcio.kgr/o-que-todo-dev-net-deveria-saber-8e3f344b7206))
+- [O que todo dev .Net deveria saber?](https://medium.com/@marcio.kgr/o-que-todo-dev-net-deveria-saber-8e3f344b7206)
 - [RabbitMQ vs Kafka](https://medium.com/@marcio.kgr/rabbitmq-vs-kafka-c265456c97da)
 - [O que é o Chat GPT e um pouco do que ele pode fazer](https://medium.com/@marcio.kgr/o-que-%C3%A9-o-chat-gpt-e-um-pouco-do-que-ele-pode-fazer-a4b07a47e364)
 - [Endpoint e API não é a mesma coisa!](https://medium.com/@marcio.kgr/endpoint-e-api-n%C3%A3o-%C3%A9-a-mesma-coisa-d4d25cbf5ef0)
