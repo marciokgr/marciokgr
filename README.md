@@ -61,6 +61,8 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 
 ## 📕 Últimos Posts no [Medium e Linkedin]([(https://medium.com/@marcio.kgr/))
 <!-- BLOG-POST-LIST:START -->
+- [.NET 9, tem menor consumo de memória que Rust](https://medium.com/@marcio.kgr/net-9-tem-menor-consumo-de-mem%C3%B3ria-que-rust-7f10d46c257d)
+- [Otimizações no LINQ .NET 9](https://medium.com/@marcio.kgr/otimiza%C3%A7%C3%B5es-no-linq-net-9-af00482c7f5f)
 - [O que todo dev .Net deveria saber?](https://medium.com/@marcio.kgr/o-que-todo-dev-net-deveria-saber-8e3f344b7206)
 - [RabbitMQ vs Kafka](https://medium.com/@marcio.kgr/rabbitmq-vs-kafka-c265456c97da)
 - [O que é o Chat GPT e um pouco do que ele pode fazer](https://medium.com/@marcio.kgr/o-que-%C3%A9-o-chat-gpt-e-um-pouco-do-que-ele-pode-fazer-a4b07a47e364)
