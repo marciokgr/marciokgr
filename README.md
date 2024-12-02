@@ -8,9 +8,9 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 <br/><br/>
 📝 Desenvolvimento Web e Desktop
 <br/>
- • Backend: C#, VBNet, PHP, ASP, VB6, .NET Core, .Net 5, .Net 6, .Net 7
+ • Backend: C#, VBNet, PHP, ASP, VB6, .NET Framework, .NET Core, .NET 5, .NET 6, .NET 7, .NET 8, .NET 9
  <br/>
- • Frontend: JQuery, React, AngularJS, Razor, Telerik (Kendo UI), Bootstrap, JavaScript, HTML, HTML5
+ • Frontend: JQuery, React, Angular, Razor, Telerik (Kendo UI), Bootstrap, JavaScript, HTML, HTML5
  <br/>
  • Android / IOS: Flutter
  <br/>
