@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 18 anos de experiência em TI e desenvolvimento de sistemas. Atuando como Arquiteto de Software.
 
 💻 Arquitetura de Software
@@ -52,8 +52,7 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
     />
 </a>
 </p>
-<br/><br/>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciokgr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciokgr?trk=profile-badge">Márcio Krüger</a></div>              
+            
 <br/><br/>
 <div>
   <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
