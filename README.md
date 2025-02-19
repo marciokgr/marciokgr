@@ -52,6 +52,8 @@ Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissiona
 </a>
 </p>
 <br/><br/>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciokgr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciokgr?trk=profile-badge">Márcio Krüger</a></div>              
+<br/><br/>
 <div>
   <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/marciokgr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
