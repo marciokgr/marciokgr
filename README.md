@@ -1,5 +1,5 @@
 
-Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 18 anos de experiência em TI e desenvolvimento de sistemas. Atuando como Arquiteto de Software.
+Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 20 anos de experiência em TI e desenvolvimento de sistemas. Atuando como Engenheiro de Software.
 
 💻 Arquitetura de Software
 <br/>
