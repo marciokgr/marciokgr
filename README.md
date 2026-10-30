@@ -2,231 +2,110 @@
 Com mais de 20 anos de experiencia em desenvolvimento de Software, busco sempre ficar atualizado com as novas tecnologias.
 
 
-
 Minhas Skills:
-
-
 
 🏗️ Arquitetura & Engenharia de Software
 
-
-
 - Arquitetura Monolítica
-
 - Microsserviços
-
 - APIs REST
-
 - Domain-Driven Design (DDD)
-
 - CQRS
-
 - Behavior-Driven Development (BDD)
-
 - Arquitetura Orientada a Eventos
-
 - Open Finance
-
 - CI/CD
-
 - Docker
-
 - Kubernetes
-
-
 
 ⚙️ Backend Development
 
-
-
 - C#
-
 - .NET Framework
-
 - .NET Core
-
 - .NET 5/6/7/8/9/10
-
 - ASP.NET
-
 - ASP.NET Web API
-
 - VB.NET
-
 - VB6
-
 - PHP
-
 - WCF
-
 - Dapper
-
 - Node.js
-
 - Golang 
-
-
 
 🎨 Frontend Development
 
-
-
 - Angular
-
 - React
-
 - Razor
-
 - JavaScript
-
 - jQuery
-
 - HTML5
-
 - CSS3
-
 - Bootstrap
-
 - Kendo UI
-
-
 
 📱 Desenvolvimento Mobile
 
-
-
 - Flutter
-
 - Desenvolvimento Android
-
 - Desenvolvimento iOS
-
-
 
 🔄 Integração & Mensageria
 
-
-
 - RabbitMQ
-
 - Apache Kafka
-
 - Sensedia API Platform
-
 - WSO2
-
 - MuleSoft
-
 - Integração de Sistemas
-
 - Gerenciamento de APIs
-
-
 
 🗄️ Bancos de Dados
 
-
-
 - SQL Server
-
 - Oracle Database
-
 - MySQL
-
 - PostgreSQL
-
 - Redis
-
 - RavenDB
-
 - DynamoDB
-
-
 
 ☁️ Cloud & DevOps
 
-
-
 - Microsoft Azure
-
 - Amazon Web Services (AWS)
-
 - Google Cloud Platform (GCP)
-
 - IBM Cloud (SoftLayer)
-
 - AWS Lambda
-
 - Amazon S3
-
 - Amazon SQS
-
 - Amazon SNS
-
 - Azure DevOps
-
 - Azure Pipelines
-
 - Git
-
 - GitHub Actions
-
 - Bitbucket
-
-
 
 📈 Observabilidade & Segurança
 
-
-
 - Datadog
-
 - Elasticsearch
-
 - Kibana
-
 - Elastic APM
-
 - Keycloak
-
 - Identity & Access Management (IAM)
-
 - Monitoramento de Aplicações
-
-
 
 🤖 Inteligência Artificial & Automação
 
-
-
 - AI Agents
-
 - Model Context Protocol (MCP)
-
 - Frameworks de IA
-
 - Governança de IA
-
 - Automação Inteligente
 
-<br/>
-<p>
-<a href="https://github.com/marciokgr/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=marciokgr&count_private=true&show_icons=true&custom_title=marciokgr%20Stats&hide=issues&theme=dracula"
-    />
-  </a>
-<a href="https://github.com/marciokgr/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciokgr&layout=compact&theme=dracula&langs_count=8"
-    />
-</a>
-</p>
-            
 <br/><br/>
 <div>
   <a href="https://www.linkedin.com/in/marciokgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -237,6 +116,7 @@ Minhas Skills:
 
 ## 📕 Últimos Posts no [Medium e Linkedin]([(https://medium.com/@marcio.kgr/))
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetura hexagonal](https://medium.com/@marcio.kgr/arquitetura-hexagonal-8958fb3e5507)
 - [.NET 9, tem menor consumo de memória que Rust](https://medium.com/@marcio.kgr/net-9-tem-menor-consumo-de-mem%C3%B3ria-que-rust-7f10d46c257d)
 - [Otimizações no LINQ .NET 9](https://medium.com/@marcio.kgr/otimiza%C3%A7%C3%B5es-no-linq-net-9-af00482c7f5f)
 - [O que todo dev .Net deveria saber?](https://medium.com/@marcio.kgr/o-que-todo-dev-net-deveria-saber-8e3f344b7206)
