@@ -1,39 +1,213 @@
 
-Olá, eu sou <b>[Márcio Krüger](https://github.com/marciokgr)</b>, profissional com 20 anos de experiência em TI e desenvolvimento de sistemas. Atuando como Engenheiro de Software.
+Com mais de 20 anos de experiencia em desenvolvimento de Software, busco sempre ficar atualizado com as novas tecnologias.
 
-💻 Arquitetura de Software
-<br/>
- • Monolítica
-<br/>
- • Microserviços
-<br/><br/>
-📝 Desenvolvimento Web e Desktop
-<br/>
- • Backend: C#, VBNet, PHP, ASP, VB6, .NET Framework, .NET Core, .NET 5, .NET 6, .NET 7, .NET 8, .NET 9
- <br/>
- • Frontend: JQuery, React, Angular, Razor, Telerik (Kendo UI), Bootstrap, JavaScript, HTML, HTML5
- <br/>
- • Android / IOS: Flutter
- <br/>
- • Controle de Versionamento: Git e SVN 
-<br/><br/>
-🎲 Banco de Dados
-<br/>
- • SQL Server (tsql, trigger, procedures, indices e modelagem e normalização)
- <br/>
- • MySQL
- <br/>
- • Oracle
- <br/>
- • NoSql (Redis, RavenDB)
-<br/><br/>
-☁️ Cloud Computing
-<br/>
- • Microsoft Azure
- <br/>
- • IBMCloud (SoftLayer)
- <br/>
- • AWS
+
+
+Minhas Skills:
+
+
+
+🏗️ Arquitetura & Engenharia de Software
+
+
+
+- Arquitetura Monolítica
+
+- Microsserviços
+
+- APIs REST
+
+- Domain-Driven Design (DDD)
+
+- CQRS
+
+- Behavior-Driven Development (BDD)
+
+- Arquitetura Orientada a Eventos
+
+- Open Finance
+
+- CI/CD
+
+- Docker
+
+- Kubernetes
+
+
+
+⚙️ Backend Development
+
+
+
+- C#
+
+- .NET Framework
+
+- .NET Core
+
+- .NET 5/6/7/8/9/10
+
+- ASP.NET
+
+- ASP.NET Web API
+
+- VB.NET
+
+- VB6
+
+- PHP
+
+- WCF
+
+- Dapper
+
+- Node.js
+
+- Golang 
+
+
+
+🎨 Frontend Development
+
+
+
+- Angular
+
+- React
+
+- Razor
+
+- JavaScript
+
+- jQuery
+
+- HTML5
+
+- CSS3
+
+- Bootstrap
+
+- Kendo UI
+
+
+
+📱 Desenvolvimento Mobile
+
+
+
+- Flutter
+
+- Desenvolvimento Android
+
+- Desenvolvimento iOS
+
+
+
+🔄 Integração & Mensageria
+
+
+
+- RabbitMQ
+
+- Apache Kafka
+
+- Sensedia API Platform
+
+- WSO2
+
+- MuleSoft
+
+- Integração de Sistemas
+
+- Gerenciamento de APIs
+
+
+
+🗄️ Bancos de Dados
+
+
+
+- SQL Server
+
+- Oracle Database
+
+- MySQL
+
+- PostgreSQL
+
+- Redis
+
+- RavenDB
+
+- DynamoDB
+
+
+
+☁️ Cloud & DevOps
+
+
+
+- Microsoft Azure
+
+- Amazon Web Services (AWS)
+
+- Google Cloud Platform (GCP)
+
+- IBM Cloud (SoftLayer)
+
+- AWS Lambda
+
+- Amazon S3
+
+- Amazon SQS
+
+- Amazon SNS
+
+- Azure DevOps
+
+- Azure Pipelines
+
+- Git
+
+- GitHub Actions
+
+- Bitbucket
+
+
+
+📈 Observabilidade & Segurança
+
+
+
+- Datadog
+
+- Elasticsearch
+
+- Kibana
+
+- Elastic APM
+
+- Keycloak
+
+- Identity & Access Management (IAM)
+
+- Monitoramento de Aplicações
+
+
+
+🤖 Inteligência Artificial & Automação
+
+
+
+- AI Agents
+
+- Model Context Protocol (MCP)
+
+- Frameworks de IA
+
+- Governança de IA
+
+- Automação Inteligente
 
 <br/>
 <p>
